@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Beauty By Maison</title>
+
+
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F5DADF;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px black;
+  }
+
+  /* Üst başlık */
+  .title {
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+       padding: 30px 10px 10px 10px;
+    letter-spacing: 2px;
+    text-shadow:
+ 0 0 5px #FFD700,
+      0 0 10px #FFD700,
+      3px 3px 6px rgb(0, 0, 0);
+      color: #ffe75c;
+  }
+
+  .subtitle {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 25px 40px 25px;
+    line-height: 1.6;
+  }
+
+  .section {
+    width: 85%;
+    margin: 20px auto;
+    background: rgba(255,255,255,0.15);
+    border-radius: 20px;
+    padding: 20px;
+    backdrop-filter: blur(6px);
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px black;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  li {
+    margin: 8px 0;
+  }
+
+  .price-title {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    padding: 50px 10px 10px 10px;
+    text-shadow:
+   
+      3px 3px 6px black;
+  }
+
+</style>
+</head>
+
+<body>
+
+<div class="title">Beauty By Maison</div>
+
+<div class="subtitle section">
+Güzelliğinize değer veren, özenle hazırlanmış bir dünyaya hoş geldiniz.
+
+Burada amaç sadece işlem yapmak değil, kendinizi iyi hissetmenizi sağlamak.
+Temiz, dikkatli ve özenli çalışmalarla; tırnak, kirpik ve cilt bakımında size en uygun görünümü birlikte oluşturuyoruz.
+
+💅 Protez tırnak  
+✨ Kirpik uygulamaları  
+🌸 Cilt bakımı  
+💖 Kaş & güzellik işlemleri  
+
+Her işlem, hijyen ve kişisel ilgiyle uygulanır.
+Sizin tarzınızı ve beklentinizi dinleyerek en doğal ve en estetik sonucu hedefleriz.
+
+Randevunuzu oluşturun, kendinize ayırdığınız bu zamanı güzelliğe dönüştürelim.
+</div>
+
+<div class="price-title">Fiyat Listesi</div>
+
+<div class="section">
+<h2>Tırnak</h2>
+<ul>
+  <li>Manikür: 200 – 300 TL</li>
+  <li>Protez: 450 TL</li>
+  <li>Kalıcı oje: 250 TL</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Kirpik</h2>
+<ul>
+  <li>İpek kirpik: 399 – 599 TL</li>
+  <li>Kirpik lifting: 295 TL</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Cilt & Kaş</h2>
+<ul>
+  <li>Klasik cilt bakımı: 390 – 750 TL</li>
+  <li>Kaş alma / şekillendirme: 150 – 250 TL</li>
+</ul>
+</div>
+
+</body>
+</html>
